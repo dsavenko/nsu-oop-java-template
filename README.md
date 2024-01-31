@@ -39,7 +39,7 @@
 
 Установите (убедитесь, что установлено):
 
-1. Java версии не ниже 11. Проверьте, что команда `java -version` запускается с командной строки (cmd).
+1. [Java](https://docs.oracle.com/en/java/javase/20/install/installation-jdk-microsoft-windows-platforms.html) версии не ниже 11. Проверьте, что команда `java -version` запускается с командной строки (cmd).
 2. [Intellij IDEA community edition](https://www.jetbrains.com/ru-ru/idea/download/#section=windows) (бесплатная). Если у вас есть лицензия - еще лучше, но бесплатной версии достаточно.
 3. [Мавен](https://maven.apache.org/). Проверьте, что команда `mvn -version` запускается с командной строки (cmd).
 
