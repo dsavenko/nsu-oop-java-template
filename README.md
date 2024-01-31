@@ -43,7 +43,7 @@
 2. [Intellij IDEA community edition](https://www.jetbrains.com/ru-ru/idea/download/#section=windows) (бесплатная). Если у вас есть лицензия - еще лучше, но бесплатной версии достаточно.
 3. [Мавен](https://maven.apache.org/). Проверьте, что команда `mvn -version` запускается с командной строки (cmd).
 
-По желанию можете поставить вместо Идеи Eclipse ([Eclipse IDE for Java Developers](https://www.eclipse.org/downloads/packages/)), но идея дружелюбнее. 
+По желанию можете поставить вместо Идеи Eclipse ([Eclipse IDE for Java Developers](https://www.eclipse.org/downloads/packages/)). 
 
 Мавен - это система сборки (как CMake), являющаяся стандартом индустрии в мире Java. Все ваши проекты должны будут собираться мавеном.
 
